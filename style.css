@@ -30,7 +30,7 @@ body {
   height: 100vh;
   overscroll-behavior-y: none;
 
-  background-color: #fff;
+  background-color: #0c1015;
   padding: 2.5rem;
 
   display: flex;
@@ -114,10 +114,10 @@ a:visited {
 }
 
 .form {
-  background-color: var(--color-dark--2);
+  background-color: #202429;
   border-radius: 5px;
   padding: 1.5rem 2.75rem;
-  margin-bottom: 1.75rem;
+  margin-top: 1.75rem;
 
   display: grid;
   grid-template-columns: 1fr 1fr;
